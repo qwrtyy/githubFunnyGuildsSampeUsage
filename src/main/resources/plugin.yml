@@ -1,0 +1,8 @@
+name: githubFunnyGuildsSampeUsage
+version: '${project.version}'
+main: cc.qwrtyy.github.funnyguilds.sample.usage.Main
+authors: [ qwrtyy ]
+description: Przykladowe uzycie 'usera' w funnyguilds.
+
+commands:
+  samplecommand:
